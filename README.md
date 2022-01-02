@@ -4,7 +4,7 @@ Refactoring a code to utilize GraphQL.
 
 ## Description
 
->
+>  This app allows a user to signup and log in to a book search engine.  Once logged in, a user can search for books and add books to his account.  The user then can see all the books he has saved.
 
 ---
 
@@ -22,15 +22,19 @@ Refactoring a code to utilize GraphQL.
 
 ## Installation
 
->
+>  None for App.  If using code, run npm run install to install the dependencies and then npm run develop to start the app.
 
 ---
 
 ## Use
 
-> Here is a link to the deployed application:
+> Here is a link to the deployed application:  https://oetersbooksearchengine.herokuapp.com/
 
-> Here is a link to the github repository:
+> Here is a link to the github repository:  https://github.com/gus1919/BookSearchEngine/
+
+![BookSearchEngine1](https://user-images.githubusercontent.com/86876335/147865277-1705f8bf-c384-4e58-a8a7-0c472e612dee.png)
+![BookSearchEngine2](https://user-images.githubusercontent.com/86876335/147865278-63692fa5-139c-472e-935d-52ed6653fe78.png)
+![BookSearchEngine3](https://user-images.githubusercontent.com/86876335/147865279-0ddf217d-5265-4b56-9fc3-c11eac2a2b9d.png)
 
 ---
 
@@ -57,7 +61,7 @@ Refactoring a code to utilize GraphQL.
 
 ## Issues
 
->
+>  None Found.
 
 ---
 
